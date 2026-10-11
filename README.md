@@ -52,7 +52,7 @@ Currently, I'm strengthening my Python and mathematical foundations while explor
 
 > *The goal isn't just to make things work — it's to understand why they work.*
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Currently, I'm strengthening my Python and mathematical foundations while explor
 | Data processing | Pandas, scikit-learn |
 | Tools | Git, GitHub, Ollama |
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -96,7 +96,7 @@ A job-search web application designed to help users discover relevant opportunit
 </td>
 <td width="50%" valign="top">
 
-### 🧠 AI Resume Reviewer
+### AI Resume Reviewer
 
 A resume-analysis tool powered by a locally running large language model.
 
@@ -114,7 +114,7 @@ A resume-analysis tool powered by a locally running large language model.
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Steam Achievement Analyzer
+### Steam Achievement Analyzer
 
 A project for analyzing game achievements using Steam data.
 
@@ -127,7 +127,7 @@ Exploring game data and turning it into useful insights.
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Steam Recommender
+### Steam Recommender
 
 A project focused on game recommendations within the Steam ecosystem.
 
@@ -142,7 +142,7 @@ An opportunity to explore recommendation logic and data-driven personalization.
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ Windows Tool Server
+### Windows Tool Server
 
 A backend service that exposes Windows functionality through a unified Tool API.
 
@@ -155,7 +155,7 @@ Exploring ways to connect software with local system capabilities.
 </td>
 <td width="50%" valign="top">
 
-### 🌐 More Experiments
+### More Experiments
 
 I also work on smaller projects and web development experiments as I explore new technologies and ideas.
 
@@ -165,7 +165,7 @@ I also work on smaller projects and web development experiments as I explore new
 </tr>
 </table>
 
-## 🧪 Currently Exploring
+## Currently Exploring
 
 - **Machine Learning:** regression, loss functions, gradient descent, and model evaluation.
 - **Mathematics for ML:** linear algebra, calculus, and probability.
@@ -174,7 +174,7 @@ I also work on smaller projects and web development experiments as I explore new
 
 I believe in learning by building — understanding the fundamentals, experimenting with implementations, and documenting what I discover.
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -195,19 +195,7 @@ I believe in learning by building — understanding the fundamentals, experiment
 
 </div>
 
-## 🌌 A Little Philosophy
-
-```text
-Curiosity → Experiments → Understanding → Better Projects
-```
-
-I'm here to keep learning, build things that matter, and gradually move from using technology to understanding it deeply.
-
-If you're interested in Python, AI, or machine learning, feel free to explore my repositories.
-
-<div align="center">
-
-### Thanks for stopping by 👾
+### Thanks for stopping by 
 
 <a href="https://github.com/kamakhun">
   <img src="https://img.shields.io/badge/Follow%20my%20journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow my GitHub journey"/>
@@ -218,18 +206,3 @@ If you're interested in Python, AI, or machine learning, feel free to explore my
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0891b2,50:312e81,100:0f172a" width="100%" alt="Footer banner"/>
 
 </div>
-
-<!--
-**kamakhun/kamakhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
