@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:312e81,100:0891b2&text=Kamakhun&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Building%20%7C%20Learning%20%7C%20Experimenting&descAlignY=60&descSize=16" width="100%" alt="Kamakhun profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:312e81,100:0891b2&text=Building%20%7C%20Learning%20%7C%20Experimenting&fontColor=ffffff&fontSize=58&fontAlignY=38&" width="100%" alt="Kamakhun profile banner"/>
 
 <a href="https://github.com/kamakhun">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Python+Developer;Exploring+Machine+Learning+%26+AI;Building+Projects+That+Solve+Problems;Learning+One+Experiment+At+A+Time" alt="Typing introduction"/>
